@@ -1,11 +1,11 @@
 
-#Movie Correlation in Python
+# Movie Correlation in Python
 This project uses Python to analyze a dataset of movies and find correlations between different variables, such as the movie's budget, votes, and gross.
 
-##Data Source
+## Data Source
 The dataset used in this project is available on Kaggle at https://www.kaggle.com/datasets/danielgrijalvas/movies. It includes information about over 5,000 movies, including their title, genre, release year, rating, budget, votes, and gross.
 
-##Dependencies
+## Dependencies
 This project requires Python 3 and the following libraries:
 
 - pandas
