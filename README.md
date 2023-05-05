@@ -12,6 +12,7 @@ This project requires Python 3 and the following libraries:
 - numpy
 - matplotlib
 - seaborn
+
 These can be installed using Anaconda
 
 ## Usage
